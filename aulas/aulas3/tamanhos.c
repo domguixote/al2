@@ -38,11 +38,5 @@ int main() {
   printf("a faixa de valores do long int: de %li ate %li\n", LONG_MIN, LONG_MAX);
   printf("a faixa de valores do long double: de %LE ate %LE\n", LDBL_MIN, LDBL_MAX);
   
-  
-  
-  
-  
-  
-  
   return 0;
 }
