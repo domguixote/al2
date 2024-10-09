@@ -35,15 +35,15 @@ int main() {
     deu_certo = scanf("%i", &media);
 
     //if encadeado
-    if (media >= 9.0f && media = <= 10.0f) {
+    if (media >= 9.0f && media <= 10.0f) {
         printf("Sua mencao eh SS\n");
-    } else if (media >= 7.0f && media = <= 8.9f) {
+    } else if (media >= 7.0f && media <= 8.9f) {
         printf("Sua mencao eh MS\n");
-    } else if (media >= 5.0f && media = <= 6.9f) {
+    } else if (media >= 5.0f && media <= 6.9f) {
         printf("Sua mencao eh MM\n");
-    } else if (media >= 3.0f && media = <= 4.9f) {
+    } else if (media >= 3.0f && media <= 4.9f) {
         printf("Sua mencao eh MI\n");
-    } else if (media >= 0.1f && media = <= 2.9f) {
+    } else if (media >= 0.1f && media <= 2.9f) {
         printf("Sua mencao eh II\n");
     } else {
         printf("Sua mencao eh SR\n");
